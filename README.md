@@ -12,3 +12,7 @@ Hvis koden er riktig, får brukeren tilgang.
 
 ## Hvordan kjøre programmet?
 python program.py
+
+
+##Flask og lisenssjekk
+Programmet sender lisenskoden til en lokal Flask-server som sjekker om lisensen er gyldig før programmet får starte.
